@@ -1,6 +1,8 @@
 # flutter_project
+HEAD
 
-A new Flutter project.
+# Description
+this is a template for a FEATURE FIRST approach to folder structure organization in flutter
 
 ## Getting Started
 
