@@ -1,4 +1,4 @@
-name: flutter-project
+name: flutter_project
 description: "A new Flutter project."
 Author: "Sconl Peter | Ace Cyber Space"
 
@@ -11,7 +11,7 @@ dependencies:
   flutter_central_dependency:
     git:
       url: git@github.com:Sconl/flutter-central-dependency.git
-      ref: tags/v1.0.0  # Replace with the desired version tag (optional)
+      #ref: tags/v1.0.0  # Replace with the desired version tag (optional)
 
 dev_dependencies:
   flutter_lints: ^3.0.1
