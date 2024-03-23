@@ -1,19 +1,18 @@
-name: flutter_project_template
-description: A template for a new Flutter project
-homepage: https://github.com/Sconl
-publish_to: 'none'
-
-version: 1.0.0+1
+name: test_widget
+description: A package for conducting tests in my flutter projects
+version: 0.0.1
+publish_to: "none"
+homepage:
 
 environment:
-  sdk: '>=3.3.0 <4.0.0'
+  sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
   flutter_central_dependency:
     git:
-      url: git@github.com:Sconl/flutter_central_dependency.git
+      url: git@github.com:Sconl/flutter-central-dependency.git
 
 flutter:
   uses-material-design: true

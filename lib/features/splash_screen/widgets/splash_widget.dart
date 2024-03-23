@@ -6,7 +6,7 @@ import 'package:rive/rive.dart';
 import 'package:flutter_svg/flutter_svg.dart'; // Import flutter_svg
 import 'package:animated_text_kit/animated_text_kit.dart'; // Import AnimatedTextKit
 import '../bloc/splash_bloc/splash_bloc.dart'; // Import SplashBloc
-import '../../../shared/theme/theme.dart'; // Import App
+import '../../../shared/theme/custom_theme.dart'; // Import App
 
 class SplashWidget extends StatefulWidget {
   final SplashBloc splashBloc;
